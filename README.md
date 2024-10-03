@@ -1,2 +1,17 @@
 "YouTube" https://youtu.be/EpOx7oAQoyQ 
 "GitHub link" https://github.com/Amogelang28/AMO28assignment2/tree/main
+ AMOGELANG MOFOKENG
+[ST10463226]
+Documentation.
+The Tamagotchi app is an application that brings back the popular virtual pet toy from the 1990s in a modern way. Just like the original, the app lets users to care for and look after a digital pet by feeding, play with, and attend to their virtual pets to keep them happy and healthy. It combines the nostalgic charm of the old toy with today’s technology, offering a fun experience where you keep your pet happy and healthy by meeting its needs. The app is a playful and enjoyable escape, perfect for both fans of the original toy and new players, bringing the timeless fun to today’s mobile devices.
+The goal of the Tamagotchi app is to bring back the experience of the well-known 1990s virtual pet, allowing users to care for and interact with a digital pet on their mobile devices. The apps design focuses on keeping the nostalgic feel of the original while adding modern features like easy touch controls, better graphics, and social sharing. It needs to be simple yet engaging, capturing the spirit of the original Tamagotchi while offering a smooth and enjoyable user experience. GitHub is used for managing the code and making collaboration easier by tracking changes. GitHub actions help automate tasks like testing and updating the app, making sure it stays bug-free and up-to-date with minimal effort. These tools streamline the development process, ensuring smooth teamwork and continuous improvements to the app.
+The application’s design is based on a few key ideas: keeping it simple, bringing a sense of nostalgia, making it easy to use, and keeping players engaged. I made the app simple and attractive for modern mobile users. The user interface (UI) will be as simple as a toy, with basic buttons for feeding, cleaning and playing with the pet. At the same time, I used bright colours and smooth animations to make it visually appealing for today’s standards.
+The app is implemented with different codes that will make it work or run. The user experience will be very fun and not annoying as it will send reminders to users for them to take care of the pets. Users will be able to customise their pet’s look, surroundings, and accessories to make the experience feel more personal. While still keeping it simple like the original one user can still share and interact with other users.
+GitHub is very important in developing the Tamagotchi app. It serves as a central place where the team can work together on the code in real time. It helps keep track of different versions, allowing developers to work on separate features, and helps manage any issues. This makes it easier for multiple developers to work on the app at the same time, keeping the code clean and organized, and allowing both the core team and outside contributors to make improvements. GitHub actions help make development process smoother by automating important tasks like testing and updating the app. When a developer adds new code, GitHub actions automatically run tests, checks for bugs and updates the app in a safe environment. This automation makes sure every new feature or fix works properly and reduces the chance of errors. It also speeds up the release process, letting developers focus on writing code while GitHub actions handle testing and updates, making the app more reliable and allowing new features to be released faster.
+ 
+
+ 
+
+
+
+
